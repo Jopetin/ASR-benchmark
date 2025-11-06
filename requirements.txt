@@ -1,0 +1,5 @@
+openai-whisper
+jiwer
+soundfile
+tqdm
+torch
