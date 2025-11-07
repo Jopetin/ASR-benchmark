@@ -3,3 +3,5 @@ jiwer
 soundfile
 tqdm
 torch
+psutil 
+pandas
