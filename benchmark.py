@@ -58,7 +58,7 @@ elif MODEL_TYPE == "vosk":
     import json
     
     load_start = time.time()
-    model = vosk.Model("vosk/vosk-model-small-en-us-0.15")
+    model = vosk.Model("vosk/vosk-model-en-us-0.22-lgraph")
     load_time = time.time() - load_start
 
 else:
